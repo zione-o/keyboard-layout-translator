@@ -1,0 +1,14 @@
+"""
+Define your custom keyboard layout here.
+
+Replace the example mappings below with your own.
+"""
+
+KEYBOARD_MAP = {
+    # Example:
+    # 'a': 'α',
+    # 'b': 'β',
+    # 'c': 'γ',
+
+    # Add your mappings below
+}
