@@ -1,4 +1,3 @@
-# keyboard-layout-translator
 # Keyboard Layout Translator
 
 A lightweight desktop tool for converting text between different keyboard layouts.
